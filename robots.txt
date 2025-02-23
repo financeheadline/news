@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://financeheadline/news/sitemap.xml
+Sitemap: https://financeheadline.github.io/news/sitemap.xml
